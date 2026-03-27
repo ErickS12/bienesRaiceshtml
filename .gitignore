@@ -1,5 +1,11 @@
 .DS_Store
+Thumbs.db
 .vscode/
-build/
 node_modules/
+package-lock.json
 *.scss
+src/
+src/img/
+src/scss/
+build/img/
+gulpfile.js
